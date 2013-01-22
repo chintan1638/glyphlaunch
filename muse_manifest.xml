@@ -1,0 +1,30 @@
+<manifest alg="2" build="8" opt="false">
+  <folder name="css">
+    <file name="site_global.css" crc="3835980900"/>
+    <file name="index.css" crc="4137143387" ref="index"/>
+    <file name="iefonts_index.css" crc="368322223" ref="index"/>
+    <file name="untitled-3.css" crc="4123387257" ref="untitled-3"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.1">
+      <file name="jquery-1.7.min.js" crc="4285342938" ref="index:untitled-3"/>
+      <file name="museutils.js" crc="3944585760" ref="index:untitled-3"/>
+      <file name="pie.js" crc="3786417276" ref="index:untitled-3"/>
+      <file name="pie.htc" crc="354638364" ref="index:untitled-3"/>
+      <file name="jquery.musepolyfill.bgsize.js" crc="398106652" ref="index"/>
+      <file name="jquery.tobrowserwidth.js" crc="4237930348" ref="index"/>
+      <file name="jquery.watch.js" crc="346672883" ref="index:untitled-3"/>
+    </folder>
+  </folder>
+  <folder name="images">
+    <file name="glyf_bk.jpg" crc="4099549141" ref="index"/>
+    <file name="u159-4.png" crc="163566812" ref="index"/>
+    <file name="iphone_glyph.png" crc="4050953921" ref="index"/>
+    <file name="glyph_icon-u99.png" crc="311515921" ref="index"/>
+    <file name="u105-4.png" crc="105997487" ref="index"/>
+    <file name="u187-7.png" crc="4191891964" ref="index"/>
+    <file name="u172-9.png" crc="155951895" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4132782144" mt="1357096756099"/>
+  <file name="untitled-3.html" crc="3818572520" mt="1355774253967"/>
+</manifest>
